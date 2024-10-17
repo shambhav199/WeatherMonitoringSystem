@@ -8,7 +8,7 @@ To set up and run the application, follow these steps:
 
 1.Clone the repository:
    
-   git clone <your-repo-url>
+   git clone *your-repo-url*
    cd WeatherMonitoringSystem
 
 2.Install the required dependencies:
